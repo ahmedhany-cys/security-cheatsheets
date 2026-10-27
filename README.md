@@ -7,3 +7,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 <!-- cheatsheets are added below as they land -->
 - [Nmap](cheatsheets/nmap.md)
 - [Linux Commands for Security](cheatsheets/linux-commands.md)
+- [Git](cheatsheets/git.md)
