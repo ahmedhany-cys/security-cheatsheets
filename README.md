@@ -20,3 +20,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 - [Regex for Security Work](cheatsheets/regex.md)
 - [Hash Identification](cheatsheets/hash-identification.md)
 - [Common Ports](cheatsheets/common-ports.md)
+- [Windows Security Event IDs](cheatsheets/windows-event-ids.md)
