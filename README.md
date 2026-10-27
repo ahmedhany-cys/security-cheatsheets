@@ -18,3 +18,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 - [Log Analysis](cheatsheets/log-analysis.md)
 - [Docker Security](cheatsheets/docker-security.md)
 - [Regex for Security Work](cheatsheets/regex.md)
+- [Hash Identification](cheatsheets/hash-identification.md)
