@@ -17,3 +17,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 - [Incident Response Checklist](cheatsheets/incident-response.md)
 - [Log Analysis](cheatsheets/log-analysis.md)
 - [Docker Security](cheatsheets/docker-security.md)
+- [Regex for Security Work](cheatsheets/regex.md)
