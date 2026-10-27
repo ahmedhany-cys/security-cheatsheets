@@ -5,3 +5,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 ## Index
 
 <!-- cheatsheets are added below as they land -->
+- [Nmap](cheatsheets/nmap.md)
