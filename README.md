@@ -12,3 +12,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 - [OWASP Top 10 (2021)](cheatsheets/owasp-top-10.md)
 - [AWS Security (CLI)](cheatsheets/aws-security.md)
 - [SSH Hardening](cheatsheets/ssh-hardening.md)
+- [OpenSSL and TLS](cheatsheets/openssl-tls.md)
