@@ -13,3 +13,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 - [AWS Security (CLI)](cheatsheets/aws-security.md)
 - [SSH Hardening](cheatsheets/ssh-hardening.md)
 - [OpenSSL and TLS](cheatsheets/openssl-tls.md)
+- [HTTP Security Headers](cheatsheets/http-security-headers.md)
