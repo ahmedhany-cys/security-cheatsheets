@@ -19,3 +19,4 @@ Quick-reference notes for cybersecurity, cloud security, and the everyday tools 
 - [Docker Security](cheatsheets/docker-security.md)
 - [Regex for Security Work](cheatsheets/regex.md)
 - [Hash Identification](cheatsheets/hash-identification.md)
+- [Common Ports](cheatsheets/common-ports.md)
